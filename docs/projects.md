@@ -3,12 +3,8 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+My favorite project is [CSC256PublicChangeMgmt](https://github.com/eastertest/CSC256PublicChangeMgmt).
+It is a repo for using Issues to track changes.
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![CSC256PublicChangeMgmt Screenshot](./assets/Capture.JPG)
